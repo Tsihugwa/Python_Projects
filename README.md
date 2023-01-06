@@ -1,2 +1,2 @@
 # Python_Projects
-In this repository are different Branches that contain different python projects
+This is a simple python code that checks for add in a webpage and removes them
