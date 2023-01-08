@@ -12,3 +12,5 @@ To retrieve the rankings, call the get_cryptocurrency_rankings() function with t
 To display the rankings, call the print_rankings() function with the list of rankings returned by get_cryptocurrency_rankings(). The rankings will be printed in a table format with the rank, name, symbol, daily volume, and daily percentage change for each cryptocurrency.
 
 Thank you for using this code! If you have any questions or issues, please feel free to open a new issue in this repository.
+
+Author RYAN TSIHUGWA
