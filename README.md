@@ -18,14 +18,23 @@ Language Codes
 The language codes used by this tool are the same as those used by the Google Translate API. Here is a list of some common language codes:
 
 Language	Language Code
+
 English	en
+
 Spanish	es
+
 French	fr
+
 German	de
+
 Japanese	ja
+
 Chinese (Simplified)	zh-CN
+
 Chinese (Traditional)	zh-TW
+
 Korean	ko
+
 For a complete list of language codes, see the Google Translate API documentation.
 
 Author RYAN TSIHUGWA
