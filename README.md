@@ -28,3 +28,4 @@ Note
 
 The sendmail command in the script is currently set up to work with Unix-based systems. If you are running this script on a Windows machine, you will need to modify the os.system line to use a different command for sending emails.
 
+Author RYAN TSIHUGWA
