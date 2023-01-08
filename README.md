@@ -17,3 +17,5 @@ Some ideas for future improvements to this program include:
 Adding the ability to customize the prompt message.
 Allowing the user to input their own list of responses.
 Adding more advanced functionality, such as the ability to handle open-ended questions.
+
+Author RYAN TSIHUGWA
