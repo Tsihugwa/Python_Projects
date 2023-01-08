@@ -30,7 +30,7 @@ def ask_question():
     print("Ask a yes or no question and the Magic 8 Ball will provide an answer.")
     question = input("What is your question? (Enter 'q' to quit)")
     if question.lower() == 'q':
-      break
+        return
     print("Thinking...")
     
     # choose a random response
@@ -44,3 +44,4 @@ while True:
     another = input("Would you like to ask another question? (y/n) ")
     if another.lower() == "n":
         break
+
